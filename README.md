@@ -1,4 +1,11 @@
-<a href="https://isbendiyarovanezrin.github.io/PlayingWithCSSVariablesAndJS">
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Playing%20with%20CSS%20Variables%20and%20JS&&fontAlignY=27&fontSize=50 "Click Me!")
-</a>
+### Playing with CSS Variables and JS
+
+#### You can view the project [here](https://isbendiyarovanezrin.github.io/PlayingWithCSSVariablesAndJS "Click me!✿").
+
+##### Screenshot
+
+!["Playing with CSS Variables and JS" project screenshot](https://i.postimg.cc/XqKCYST5/pwcvaj.png)
+
+</div>
